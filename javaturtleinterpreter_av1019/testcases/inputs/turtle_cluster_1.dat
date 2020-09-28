@@ -1,0 +1,19 @@
+paper 10 10
+new cluster judges 4
+  new normal craig    0 0
+  new normal darcey   3 0
+  new normal len      6 0
+  new normal bruno    9 0
+
+pen judges.darcey d
+pen judges.bruno  b
+pen judges.len    l
+pen judges.craig  c
+
+pen  judges down
+move judges 2
+pen  judges.craig up
+move judges 2
+
+show
+

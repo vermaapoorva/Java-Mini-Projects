@@ -1,0 +1,30 @@
+paper 10 10
+new cluster shows 2
+  new cluster strictly 4
+    new normal     darcey   0 5
+    new bouncy     bruno    3 5
+    new reflecting len      6 5
+    new wrapping   craig    9 5
+
+  new cluster voice 5
+    new normal tom      0 0
+    new normal kylie    0 2
+    new normal ricky    0 4
+    new normal will     0 6
+    new normal jessie   0 8
+
+
+pen shows.strictly.darcey d
+pen shows.strictly.bruno  b
+pen shows.strictly.len    l
+pen shows.strictly.craig  c
+
+pen shows.voice    v
+
+right shows.voice 90
+right shows.strictly 45
+
+pen shows down
+move shows 5
+
+show
